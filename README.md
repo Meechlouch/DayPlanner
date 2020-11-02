@@ -1,3 +1,6 @@
 # DayPlanner
-A simple Work planner that allows user to save events for each our of the day. Application was created to show the power of JQuery.
-![alt text](https://github.com/[Meechlouch]/[DayPlanner]/blob/[main]/dayPlanner.jpg?raw=true)
+## Description
+This is an interactive work day planner that allow user to input daily task throughout a 9AM -5PM work day.
+The application works by taking the users input and storing it into local storage a under the key value of the hourly time-block
+![Working Apllication Screenshot]
+
