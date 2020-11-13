@@ -3,8 +3,7 @@
 ### Gallery
 
 #### Desktop:
-![Apllication Screenshot]
-(img/Screenshot%20(10).png)
+![Desktop View](img/Screenshot%20(10).png)
 
 #### Mobile:
 ![Mobile View](img/Screenshot%20(26).png)
