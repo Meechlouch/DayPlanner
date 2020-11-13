@@ -4,10 +4,10 @@
 
 #### Desktop:
 ![Apllication Screenshot]
-(img/dayPlanner.jpg)
+(img/Screenshot%20(10).png)
 
 #### Mobile:
-![Mobile View](img/Screenshot%20(23).png)
+![Mobile View](img/Screenshot%20(26).png)
 
 ## Project Description
 
