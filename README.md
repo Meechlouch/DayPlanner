@@ -4,7 +4,7 @@
 
 #### Desktop:
 ![Apllication Screenshot]
-(img/dayPlanner/dayPlanner.jpg)
+(img/dayPlanner.jpg)
 
 #### Mobile:
 ![Mobile View](img/Screenshot%20(23).png)
